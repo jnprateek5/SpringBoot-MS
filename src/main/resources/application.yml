@@ -1,0 +1,4 @@
+server:
+  port : 9090
+mongoDb:
+  url : "mongodb+srv://jnprateek3:Mtyq1114@testprateeklocalcluster.y0stmsu.mongodb.net/?retryWrites=true&w=majority"
